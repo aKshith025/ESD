@@ -4,7 +4,11 @@ Welcome to akshith kitchen
 
 kheer
 pasta
-chicken
+chicken fry
+
+
+beans 
+pizza
 
 
 
